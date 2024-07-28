@@ -1,0 +1,1 @@
+## ATENÇÃO Devido alguns .gitignore espalhados pelo projeto, algums dependencias (em sua maioria defasadas) do vendor, não estão subindo para o repositorio e são necessárias para o funcionamento do projeto. O zip do vendor se encontra na raiz do projeto.  
