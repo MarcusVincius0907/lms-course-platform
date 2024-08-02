@@ -868,9 +868,7 @@
                                     {{$item->title}}
                                 </h2>
                                 <div class="contentPackInfo">
-                                    @foreach (json_decode($item->items) as $i )
-                                    <div ><i class="fa fa-check"></i> {{$i}} </div>
-                                    @endforeach
+                                   
                                     
                                 </div>
                             </div>
